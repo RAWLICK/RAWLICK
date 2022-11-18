@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Archit Gupta</h1>
+<h1 align="center">Hi 👋, I'm Archit</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw0g4xjx-xRGnEHpnL0gX4GB&ust=1668866645895000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDE8O3yt_sCFQAAAAAdAAAAABAE">
 
