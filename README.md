@@ -1,3 +1,4 @@
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/04/53/06/66/1000_F_453066686_ajwJxagmnCBIakJvYk3NfhgoUttRp7wE.jpg)](https://RAWLICK.io)
 <h1 align="center">Hi 👋, I'm Archit</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg?w=740">
