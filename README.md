@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archit Gupta</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/Archit%20Gupta/Downloads/Coding.webp">
+<img align="right" alt="Coding" width="400" src="C:\Users\Archit Gupta\Pictures\Screenshots\Screenshots(7)">
 
 - 🔭 I’m currently working on **my Startup Project named Drill.**
 
