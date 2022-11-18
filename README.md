@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **React Js and Tensorflow.**
 
-- 👨‍💻 All of my projects are available at [GitHub only.](GitHub only.)
-
 - 💬 Ask me about **ML, Web Development etc.**
 
 - 📫 How to reach me **architgupta869@gmail.com**
 
-- ⚡ Fun fact **I am 18 (;**
+- ⚡ Fun fact **I am 18 ( ;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
