@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit Gupta</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_20740511.htm#query=cartoon%20programmer&position=6&from_view=keyword">
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/Archit%20Gupta/Downloads/Coding.webp">
+
 - 🔭 I’m currently working on **my Startup Project named Drill.**
 
 - 🌱 I’m currently learning **React Js and Tensorflow.**
